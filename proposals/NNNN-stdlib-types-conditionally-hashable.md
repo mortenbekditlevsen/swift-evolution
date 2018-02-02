@@ -4,9 +4,6 @@
 * Authors: [Morten Bek Ditlevsen](https://github.com/mortenbekditlevsen), [Karoy Lorentey](https://github.com/lorentey)
 * Review Manager: TBD
 * Status: **Awaiting implementation** <- Should this be 'implemented' when we have a proposed implementation?
-
-*During the review process, add the following fields as needed:*
-
 * Implementation: [apple/swift#14247](https://github.com/apple/swift/pull/14247)
 
 ## Introduction
